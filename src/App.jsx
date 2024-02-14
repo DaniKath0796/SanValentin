@@ -1,5 +1,6 @@
 import { useState } from "react";
 import JSConfetti from 'js-confetti'
+//import gatitos from 'src/gatitos'
 function App() {
 
 
@@ -15,58 +16,58 @@ function App() {
   let random = [{
     id: 1,
     description: "Di si por favor",
-    img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
+    img: "src/gatitos/11.gif"
   },
   {
     id: 1,
     description: "Morchi piénsalo de nuevo.",
-    img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
+    img: "src/gatitos/1.gif"
   }
     ,
   {
     id: 2,
     description: "Vamos, morchito di que sí.",
-    img: "https://www.gifmaniacos.es/wp-content/uploads/2019/05/gatitos-kawaii-gifmaniacos.es-19.gif"
+    img: "src/gatitos/2.gif"
   },
   {
     id: 3,
     description: "Me vas a hacer llorar???",
-    img: "https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif"
+    img: "src/gatitos/3.gif"
   },
   {
     id: 4,
     description: "Te dare muchos besitos",
-    img: "https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif"
+    img: "src/gatitos/4.gif"
   },
   {
     id: 5,
     description: "Morchiiiiiii",
-    img: "https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif"
+    img: "src/gatitos/5.gif"
   },
   {
     id: 6,
     description: "Morchi estoy perdiendo la paciencia",
-    img: "https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif"
+    img: "src/gatitos/6.gif"
   },
   {
     id: 7,
     description: "No dejes que el miedo te detenga.",
-    img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
+    img: "src/gatitos/7.gif"
   },
   {
     id: 8,
     description: "Veo que se acabo el amor",
-    img: "https://media.tenor.com/cbEccaK9QxMAAAAi/peach-goma.gif"
+    img: "src/gatitos/8.gif"
   },
   {
     id: 9,
     description: "Confía en mí.",
-    img: "https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif"
+    img: "src/gatitos/9.gif"
   },
   {
     id: 10,
     description: "Si ya no me amas solo dilo.",
-    img: "https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif"
+    img: "src/gatitos/10.gif"
   }]
 
   const randomResponse = () => {
