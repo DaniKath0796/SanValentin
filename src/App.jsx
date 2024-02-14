@@ -16,58 +16,58 @@ function App() {
   let random = [{
     id: 1,
     description: "Di si por favor",
-    img: "src/gatitos/11.gif"
+    img: "/gatitos/11.gif"
   },
   {
     id: 1,
     description: "Morchi piénsalo de nuevo.",
-    img: "src/gatitos/1.gif"
+    img: "/gatitos/1.gif"
   }
     ,
   {
     id: 2,
     description: "Vamos, morchito di que sí.",
-    img: "src/gatitos/2.gif"
+    img: "/gatitos/2.gif"
   },
   {
     id: 3,
     description: "Me vas a hacer llorar???",
-    img: "src/gatitos/3.gif"
+    img: "/gatitos/3.gif"
   },
   {
     id: 4,
     description: "Te dare muchos besitos",
-    img: "src/gatitos/4.gif"
+    img: "/gatitos/4.gif"
   },
   {
     id: 5,
     description: "Morchiiiiiii",
-    img: "src/gatitos/5.gif"
+    img: "/gatitos/5.gif"
   },
   {
     id: 6,
     description: "Morchi estoy perdiendo la paciencia",
-    img: "src/gatitos/6.gif"
+    img: "/gatitos/6.gif"
   },
   {
     id: 7,
     description: "No dejes que el miedo te detenga.",
-    img: "src/gatitos/7.gif"
+    img: "/gatitos/7.gif"
   },
   {
     id: 8,
     description: "Veo que se acabo el amor",
-    img: "src/gatitos/8.gif"
+    img: "/gatitos/8.gif"
   },
   {
     id: 9,
     description: "Confía en mí.",
-    img: "src/gatitos/9.gif"
+    img: "/gatitos/9.gif"
   },
   {
     id: 10,
     description: "Si ya no me amas solo dilo.",
-    img: "src/gatitos/10.gif"
+    img: "/gatitos/10.gif"
   }]
 
   const randomResponse = () => {
