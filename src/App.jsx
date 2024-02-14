@@ -21,7 +21,7 @@ function App() {
   {
     id: 1,
     description: "Morchi piénsalo de nuevo.",
-    img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
+    img: "https://media.tenor.com/gm4k2wf6hhgAAAAi/peach-goma.gif"
   }
     ,
   {
@@ -67,7 +67,7 @@ function App() {
   {
     id: 10,
     description: "Si ya no me amas solo dilo.",
-    img: "https://media1.tenor.com/m/m6n1J3qVPYEAAAAC/peach-cat-angry.gif"
+    img: "https://i.imgur.com/q3Z1gsc.gif"
   }]
 
   const randomResponse = () => {
@@ -119,7 +119,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
             <h1 className="text-4xl text-white font-bold">Sabia que dirias que si ❤️!</h1>
-            <img src="https://i.pinimg.com/originals/9b/dc/c6/9bdcc6206c1d36a37149d31108c6bb41.gif" alt="" className="mx-auto" />
+            <img src="https://media.baamboozle.com/uploads/images/230925/1609586206_46522" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si añamñamñam❤️!'}</span>
           </div>
         )
