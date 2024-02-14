@@ -16,58 +16,58 @@ function App() {
   let random = [{
     id: 1,
     description: "Di si por favor",
-    img: "/gatitos/11.gif"
+    img: "https://media.tenor.com/SwQT4BBJS0oAAAAi/peach-and-goma-peach-goma.gif"
   },
   {
     id: 1,
     description: "Morchi piénsalo de nuevo.",
-    img: "/gatitos/1.gif"
+    img: "https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif"
   }
     ,
   {
     id: 2,
     description: "Vamos, morchito di que sí.",
-    img: "/gatitos/2.gif"
+    img: "https://media.tenor.com/sjEDvFq1XhgAAAAi/peach-goma-crate-peach.gif"
   },
   {
     id: 3,
     description: "Me vas a hacer llorar???",
-    img: "/gatitos/3.gif"
+    img: "https://media.tenor.com/UUyky5KrsQgAAAAi/peach-and-goma-peach-goma.gif"
   },
   {
     id: 4,
     description: "Te dare muchos besitos",
-    img: "/gatitos/4.gif"
+    img: "https://media.tenor.com/v63_brUy45wAAAAi/peach-goma-love-peach-cat.gif"
   },
   {
     id: 5,
     description: "Morchiiiiiii",
-    img: "/gatitos/5.gif"
+    img: "https://i.pinimg.com/originals/08/79/a7/0879a7dbd761fb5d437b3b7ad70cf1cd.gif"
   },
   {
     id: 6,
     description: "Morchi estoy perdiendo la paciencia",
-    img: "/gatitos/6.gif"
+    img: "https://i.pinimg.com/originals/5a/c2/8e/5ac28e4264ce61d5dd77ca3b78d1fba6.gif"
   },
   {
     id: 7,
     description: "No dejes que el miedo te detenga.",
-    img: "/gatitos/7.gif"
+    img: "https://media.tenor.com/fE2ThIiq1K0AAAAi/peach-goma.gif"
   },
   {
     id: 8,
     description: "Veo que se acabo el amor",
-    img: "/gatitos/8.gif"
+    img: "https://media.tenor.com/_PrIuo9uqTQAAAAi/peach-goma.gif"
   },
   {
     id: 9,
     description: "Confía en mí.",
-    img: "/gatitos/9.gif"
+    img: "https://media.tenor.com/BudmQXf5aI0AAAAi/peach-goma.gif"
   },
   {
     id: 10,
     description: "Si ya no me amas solo dilo.",
-    img: "/gatitos/10.gif"
+    img: "https://media1.tenor.com/m/m6n1J3qVPYEAAAAC/peach-cat-angry.gif"
   }]
 
   const randomResponse = () => {
