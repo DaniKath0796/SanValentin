@@ -118,7 +118,7 @@ function App() {
           </div>
         ) : (
           <div className="flex justify-center items-center flex-col space-y-10">
-            <h1 className="text-4xl text-white font-bold">Sabia que dirias que si ❤️!</h1>
+            <h1 className="text-4xl text-white font-bold">Sabia que dirias que si añamñamñam❤️!</h1>
             <img src="https://media.baamboozle.com/uploads/images/230925/1609586206_46522" alt="" className="mx-auto" />
             <span hidden>{document.title = 'Sabia que dirias que si añamñamñam❤️!'}</span>
           </div>
